@@ -1,6 +1,6 @@
-### Exercise tracker backend
+# Exercise tracker backend
 
-# Run `node server.js` to start the server.
+### Run `node server.js` to start the server.
 
 Tech used
   - node js
